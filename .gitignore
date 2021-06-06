@@ -1,0 +1,7 @@
+/.vscode/
+/a.out.dSYM/
+/cmake-build-debug/
+/gnl-tester/
+a.out
+CMakeLists.txt
+/Get_Next_Line_Tester/
